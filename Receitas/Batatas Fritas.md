@@ -1,4 +1,4 @@
-# Batatas Fritas com cobertura de queijo 🍟
+# Batatas Fritas com cobertura de queijo 🍟🧀
 
 ### Ingredientes:
 
